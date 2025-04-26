@@ -1,0 +1,5 @@
+streamlit
+yfinance
+pandas
+pytz
+ta==0.10.2b0

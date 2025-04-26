@@ -1,5 +1,0 @@
-streamlit
-yf
-pandas
-pytz
-ta
